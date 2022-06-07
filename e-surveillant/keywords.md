@@ -6,22 +6,22 @@ Ander voorbeeld, met <nobr>`https://e-surveillant.nl/ical/ruppert`</nobr>, krijg
 
 De beschikbare keywords zijn:
 
-`admin`
-`alfabetagamma`
-`megarontheatron`
-`educ`
-`alfa`
-`beta`
-`gamma`
-`megaron`
-`theatron`
-`ruppert`
-`bol`
-`d23`
-`bbg`
-`icu`
-`olympos`
-`jk`
-`bijlh`
-`andro`
-`thuis`
+- `admin`
+- `alfabetagamma`
+- `megarontheatron`
+- `educ`
+- `alfa`
+- `beta`
+- `gamma`
+- `megaron`
+- `theatron`
+- `ruppert`
+- `bol`
+- `d23`
+- `bbg`
+- `icu`
+- `olympos`
+- `jk`
+- `bijlh`
+- `andro`
+- `thuis`
